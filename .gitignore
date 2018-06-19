@@ -1,0 +1,5 @@
+# Exclude all YAML Ansible "retry" files
+*.retry
+*.swp
+*.swop
+*.pyc
